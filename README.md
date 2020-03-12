@@ -1,0 +1,2 @@
+# gduptstudent
+Learn python 
